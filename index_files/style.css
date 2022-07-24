@@ -12,12 +12,11 @@ h1 {
 }
 
 .red-color {
-    color: rgb(181, 12, 12);
+    color: red;
 }
 
 section {
     display: flex;
-    margin-bottom: 120px;
 }
 
 .half-width {
